@@ -1,5 +1,11 @@
 # ☁️ infrastructure-as-code-terraform-aws
 
+![Terraform](https://img.shields.io/badge/Terraform-1.6+-purple?logo=terraform)
+![AWS](https://img.shields.io/badge/AWS-ECS%20Fargate-FF9900?logo=amazonaws)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-stack.yml-FF9900?logo=amazonaws)
+![ECR](https://img.shields.io/badge/ECR-registry-FF9900?logo=amazonaws)
+![License](https://img.shields.io/badge/license-MIT-green)
+
 Infraestructura en AWS definida como código con **Terraform** y **CloudFormation**, desplegando una API en ECS Fargate con ALB, VPC propia y ECR.
 
 > **Repo 2 de 3 — Portfolio DevOps/Cloud**
