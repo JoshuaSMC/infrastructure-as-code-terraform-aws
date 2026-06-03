@@ -30,12 +30,12 @@ Parameters:
   Cpu:
     Type: Number
     Default: 256
-    AllowedValues: [256, 512, 1024, 2048]
+    AllowedValues: [256, 512, 1024, 2048, 4096]
 
   Memory:
     Type: Number
     Default: 512
-    AllowedValues: [512, 1024, 2048, 4096]
+    AllowedValues: [512, 1024, 2048, 4096, 8192, 16384]
 
   VpcCidr:
     Type: String
